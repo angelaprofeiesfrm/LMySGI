@@ -6,6 +6,12 @@
         <title>Canal RSS de Ángela Ríder</title>
         <link>http://localhost/PracticaExamen/index.html</link>
         <description> Noticias de actualidad </description>
+        
+        <item> 
+        <title>Mi noticia de actualidad 1</title>
+        <link>https://www.elpais.com/</link>
+        <description> Noticia 2 de actualidad del pais </description>
+        </item>
       
         <item> 
         <title>Mi noticia de actualidad 2</title>
